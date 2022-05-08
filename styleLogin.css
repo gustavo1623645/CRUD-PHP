@@ -1,0 +1,27 @@
+body{
+background-image: url("img-login/bg.jpg");
+background-size: cover;
+
+}
+.formulario{
+    width: 300px;
+    background-color:#032236;
+    padding: 11px;
+    
+    border-radius:10px;
+}
+.formulario h1{
+    color: wheat;
+}
+.container{
+    display: flex;
+        align-items:center;
+       
+        justify-content:center;
+        height: 100vh;
+      
+      
+      
+
+}
+

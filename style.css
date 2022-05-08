@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+
+}
+*{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.card{
+    background-color:black;
+}
+.nav-bar{
+    display:flex;
+    flex-direction: column;
+
+}
+
+.borde{
+    border:2px solid red;
+    border-radius: 10px;
+}
